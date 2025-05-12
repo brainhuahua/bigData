@@ -24,6 +24,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\AnalyzeData\手续费_净利润.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\AnalyzeData\日收益率均值.csv">
           <value>
             <Attribute>
@@ -60,6 +67,20 @@
           </value>
         </entry>
         <entry key="\AnalyzeData\期初权益_分析结果.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\AnalyzeData\期末权益.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\AnalyzeData\盈亏比.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -115,6 +136,62 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\AnalyzePicture\oneKmeans\亏损天数_Kmeans.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\AnalyzePicture\oneKmeans\亏损天数_Kmeans_ClusterSummary.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\AnalyzePicture\oneKmeans\总交易天数_Kmeans.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\AnalyzePicture\oneKmeans\综合排名_Kmeans.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Userdata\first_10.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Userdata\first_10\1_汪先生.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Userdata\last_100.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Userdata\last_100\4984_lycgx.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\cleanData\1000_豆志昂扬.csv">
           <value>
             <Attribute>
@@ -130,6 +207,13 @@
           </value>
         </entry>
         <entry key="\cleanData\2_M先生.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\cleanData\2_尽心知性.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -312,6 +396,20 @@
           </value>
         </entry>
         <entry key="\data\选手总榜单.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\predict.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\第18届排名预测_XGBoost.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />

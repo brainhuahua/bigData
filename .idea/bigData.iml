@@ -909,6 +909,9 @@
       <excludeFolder url="file://$MODULE_DIR$/data/935_黄先生" />
       <excludeFolder url="file://$MODULE_DIR$/data/937_字号长老" />
       <excludeFolder url="file://$MODULE_DIR$/data/965_勇猛精进" />
+      <excludeFolder url="file://$MODULE_DIR$/AnalyzeData" />
+      <excludeFolder url="file://$MODULE_DIR$/AnalyzePicture" />
+      <excludeFolder url="file://$MODULE_DIR$/Userdata" />
       <excludeFolder url="file://$MODULE_DIR$/cleanData" />
       <excludeFolder url="file://$MODULE_DIR$/data" />
       <excludeFolder url="file://$MODULE_DIR$/name" />
