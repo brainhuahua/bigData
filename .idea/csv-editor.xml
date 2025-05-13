@@ -66,13 +66,6 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\AnalyzeData\期初权益_分析结果.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="\AnalyzeData\期末权益.csv">
           <value>
             <Attribute>
@@ -186,13 +179,6 @@
           </value>
         </entry>
         <entry key="\Userdata\last_100\4984_lycgx.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\cleanData\1000_豆志昂扬.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -410,6 +396,13 @@
           </value>
         </entry>
         <entry key="\第18届排名预测_XGBoost.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\选手_曾用名表.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
