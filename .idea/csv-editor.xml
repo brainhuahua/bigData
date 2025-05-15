@@ -395,6 +395,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\曾用名表_添加预测结果_UTF8.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\第18届排名预测_XGBoost.csv">
           <value>
             <Attribute>
